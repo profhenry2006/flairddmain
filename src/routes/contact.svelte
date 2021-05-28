@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Contact FlairDM.com - Flair Digital Media - Cambodia</title>
+	<title>Contact FlairDD.com - Flair Designer and Developer - Cambodia</title>
 </svelte:head>
 
         <div class="cd-contact cd-main-content">

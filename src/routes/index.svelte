@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>FlairDM.com - Flair Digital Media | Web | Mobile | Branding | Marketing | and more</title>
+	<title>FlairDD.com - Flair Designer and Developer | Web | Mobile | Branding | Marketing | and more</title>
 </svelte:head>
 
 	<div class="index-main">
